@@ -1,4 +1,3 @@
-# Function to read sensor data (simulated here as an input; in practice, it would come from hardware)
 def read_sensors():
     # This should return an 8-element list of 1s and 0s from the sensors.
     # Replace with actual sensor reading logic.
@@ -18,7 +17,6 @@ def turn_right():
 def stop_or_search():
     print("Stopping or searching for line")
 
-# Main function to interpret sensor data and control movement
 def control_robot():
     # Read sensor data
     sensors = read_sensors()
