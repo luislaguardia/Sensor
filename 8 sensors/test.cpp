@@ -1,4 +1,4 @@
-// new
+// new (need notes)
 // for testing
 
 int mot1 = 9;
