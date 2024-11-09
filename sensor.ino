@@ -1,3 +1,6 @@
+// from jud
+// prolly need notes for this
+
 int mot1=9;
 int mot2=6;
 int mot3=5;
